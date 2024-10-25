@@ -9,3 +9,15 @@ Arbeitspakete LP 6:
 
  An den Modulen arbeiten
  Im LA Modul Aufträge bearbeiten/nachholen wenn nötig.
+
+ - [ ] An den Modulen arbeiten
+
+## 25.10.2024
+
+Heute habe ich an meine Aufträge von den Modulen 294 und 346 gearbeitet, hauptsächtlich vom Modul 346, weil ich gestern nicht am Unterricht teilgenommen habe. Ich habe heute auch für die Rechtsprüfung am Montag gelernt. 
+
+
+## 1.11.2024
+
+- [ ] Aufträge vom Modul 320 fertig machen, nachfragen falls Probleme
+- [ ] Lernen für Tests
