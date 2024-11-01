@@ -21,3 +21,11 @@ Heute habe ich an meine Aufträge von den Modulen 294 und 346 gearbeitet, haupts
 
 - [ ] Aufträge vom Modul 320 fertig machen, nachfragen falls Probleme
 - [ ] Lernen für Tests
+
+Ich habe heute für Modul 320 gelernt. Ich habe ein Auftrag vom HZ4 genommen und von neu gemacht. Ich musste einen Klasendiagramm in C# implementieren. Ich habe ChatGPT zur Hilfe genommen, bei den Sachen wo ich mir nicht sicher war. Ich habe mir auch die Lösung erklären lassen von ChatGPT.
+
+
+## 8.11.2024
+
+- [ ] Aufträge vom Modul 346 fertig machen
+- [ ] Aufträge vom Modul 294 fertig machen
