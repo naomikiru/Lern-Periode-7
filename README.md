@@ -29,3 +29,5 @@ Ich habe heute für Modul 320 gelernt. Ich habe ein Auftrag vom HZ4 genommen und
 
 - [ ] Aufträge vom Modul 346 fertig machen
 - [ ] Aufträge vom Modul 294 fertig machen
+
+Ich hatte heute DSL gemacht. Ich habe heute Aufträge von den Modulen 346 und 294 nachgeholt und fertig gemacht, ich habe bei Problemen ChatGPT benutzt. 
