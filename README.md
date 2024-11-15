@@ -10,7 +10,7 @@ Arbeitspakete LP 6:
  An den Modulen arbeiten
  Im LA Modul Aufträge bearbeiten/nachholen wenn nötig.
 
- - [ ] An den Modulen arbeiten
+ - [x] An den Modulen arbeiten
 
 ## 25.10.2024
 
@@ -19,16 +19,16 @@ Heute habe ich an meine Aufträge von den Modulen 294 und 346 gearbeitet, haupts
 
 ## 1.11.2024
 
-- [ ] Aufträge vom Modul 320 fertig machen, nachfragen falls Probleme
-- [ ] Lernen für Tests
+- [x] Aufträge vom Modul 320 fertig machen, nachfragen falls Probleme
+- [x] Lernen für Tests
 
 Ich habe heute für Modul 320 gelernt. Ich habe ein Auftrag vom HZ4 genommen und von neu gemacht. Ich musste einen Klasendiagramm in C# implementieren. Ich habe ChatGPT zur Hilfe genommen, bei den Sachen wo ich mir nicht sicher war. Ich habe mir auch die Lösung erklären lassen von ChatGPT.
 
 
 ## 8.11.2024
 
-- [ ] Aufträge vom Modul 346 fertig machen
-- [ ] Aufträge vom Modul 294 fertig machen
+- [x] Aufträge vom Modul 346 fertig machen
+- [x] Aufträge vom Modul 294 fertig machen
 
 Ich hatte heute DSL gemacht. Ich habe heute Aufträge von den Modulen 346 und 294 nachgeholt und fertig gemacht, ich habe bei Problemen ChatGPT benutzt. 
 
@@ -43,4 +43,4 @@ Heute habe ich den Auftrag LA_294_8439_CRUD_JSON_Server_BBB gemacht. Ich habe vo
 
 ## 22.11.2024
 
-- [ ] 
+- [ ] ...
