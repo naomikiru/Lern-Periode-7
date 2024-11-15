@@ -35,5 +35,12 @@ Ich hatte heute DSL gemacht. Ich habe heute Aufträge von den Modulen 346 und 29
 
 ## 15.11.2024
 
-- [ ] Auftrag LA_294_8439_CRUD_JSON_Server_BBB nochmal machen, fragen wenn ich Probleme habe
+- [ ] Auftrag LA_294_8439_CRUD_JSON_Server_BBB letzte Aufgabe fertig machen, fragen wenn ich Probleme habe
 - [ ] Auftrag LA_346_1708_CloudNetzwerkkonzept fertig machen.
+
+Heute habe ich den Auftrag LA_294_8439_CRUD_JSON_Server_BBB gemacht. Ich habe von vorne angefangen und den Auftrag durchgemacht. Ich hatte keine Probleme, da ich den Auftrag schon einmal durchgearbeitet habe. Ich hatte nur bei der letzten Aufgabe Kleinigkeiten, aber die waren gut lösbar mit ChatGPT. Ich habe dann beim Auftrag LA_346_1708_CloudNetzwerkkonzept weitergemacht.
+
+
+## 22.11.2024
+
+- [ ] 
