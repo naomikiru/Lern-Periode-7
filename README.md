@@ -46,6 +46,7 @@ Heute habe ich den Auftrag LA_294_8439_CRUD_JSON_Server_BBB gemacht. Ich habe vo
 ## 22.11.2024
 
 - [ ] Auftrag LA_294_8439_CRUD_JSON_Server_BBB richtig lösen, weil nicht alles richtig war.
+- [ ] Aufträge vom Modul 346 fertig machen
 - [ ] Aufträge vom Modul 450 weiter machen
 
 
