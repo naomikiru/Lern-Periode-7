@@ -49,5 +49,5 @@ Heute habe ich den Auftrag LA_294_8439_CRUD_JSON_Server_BBB gemacht. Ich habe vo
 - [ ] Aufträge vom Modul 346 fertig machen
 - [ ] Aufträge vom Modul 450 weiter machen
 
-
+Ich habe heute den Auftrag La_294_8439_CRUD_JSON_Server_BBB nochmals gemacht und auch richtig gelöst. Ich habe auch noch mit der Lösung verglichen. Bei Fehler hatte ich Kollegen und ChatGPt gefragt. Ich habe danach ein bisschen Französisch Voci gelernt für die Prüfung am Mittwoch und habe am Ende bei den Aufträgen vom Modul 450 weitergemacht.
 
