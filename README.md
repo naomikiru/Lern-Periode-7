@@ -3,7 +3,9 @@
 # Grob Planung
 Wo stehe ich gerade? In der Kanti habe ich eine 4 als Durchschnittsnote, aber sehr zufrieden bin ich nicht, weil ich teilweise ungenügende Noten habe. 
 
-Zielnoten: 320, wenn möglich eine 5, mindestens eine 4,5.
+Zielnoten: 450 wäre eine 4 bis 5, damit ich die fehlenden Aufgaben im LB320 noch nachweisen kann
+           294 auch 4 bis 5
+           346 auch 4 bis 5
 
 Arbeitspakete LP 6:
 
@@ -43,4 +45,8 @@ Heute habe ich den Auftrag LA_294_8439_CRUD_JSON_Server_BBB gemacht. Ich habe vo
 
 ## 22.11.2024
 
-- [ ] ...
+- [ ] Auftrag LA_294_8439_CRUD_JSON_Server_BBB richtig lösen, weil nicht alles richtig war.
+- [ ] Aufträge vom Modul 450 weiter machen
+
+
+
