@@ -51,3 +51,10 @@ Heute habe ich den Auftrag LA_294_8439_CRUD_JSON_Server_BBB gemacht. Ich habe vo
 
 Ich habe heute den Auftrag La_294_8439_CRUD_JSON_Server_BBB nochmals gemacht und auch richtig gelöst. Ich habe auch noch mit der Lösung verglichen. Bei Fehler hatte ich Kollegen und ChatGPt gefragt. Ich habe danach ein bisschen Französisch Voci gelernt für die Prüfung am Mittwoch und habe am Ende bei den Aufträgen vom Modul 450 weitergemacht.
 
+
+## 29.11.2024
+
+- [ ] LB346 weiter machen
+- [ ] Aufträge vom Modul 450 weitermachen
+
+Heute habe ich an ein paar Handlungszielen vom LB346 gearbeitet, da gestern DSL war und ich nicht genau vom 07:30 bis 11:45 daran gearbeitet habe. Ich habe meine Lösungen usw. in einem Word-Dokument gespeichert, bevor ich sie auf Mahara ablege. Zusätzlich habe ich heute auch an den Aufträgen vom Modul 450 weiter gemacht. 
