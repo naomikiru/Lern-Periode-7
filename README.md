@@ -53,8 +53,14 @@ Ich habe heute den Auftrag La_294_8439_CRUD_JSON_Server_BBB nochmals gemacht und
 
 
 ## 29.11.2024
-
 - [ ] LB346 weiter machen
 - [ ] Aufträge vom Modul 450 weitermachen
 
 Heute habe ich an ein paar Handlungszielen vom LB346 gearbeitet, da gestern DSL war und ich nicht genau vom 07:30 bis 11:45 daran gearbeitet habe. Ich habe meine Lösungen usw. in einem Word-Dokument gespeichert, bevor ich sie auf Mahara ablege. Zusätzlich habe ich heute auch an den Aufträgen vom Modul 450 weiter gemacht. 
+
+## 06.12.2024
+- [ ] Aufträge vom Modul 450 weiter machen
+- [ ] Lernen für andere Tests
+
+Ich habe heute für die meiste Zeit an den Aufträgen vom Modul 450 gemacht, die Aufträge LA_450_6930_UnitTesting und LA_450_6931_CodeCoverage. $Ich habe den Auftrag LA_450_6930_UnitTesting neu gemacht, da er am Montag bei mir nicht funktioniert hat. Nachdem ich es gelöst habe, habe ich für die Deutschprüfung am nächsten Mittwoch gelernt. 
+
