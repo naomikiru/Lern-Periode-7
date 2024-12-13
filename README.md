@@ -69,3 +69,4 @@ Ich habe heute für die meiste Zeit an den Aufträgen vom Modul 450 gemacht, die
 - [ ] Aufträge vom Modul 450 weiter machen
 - [ ] Aufträge vom modul 347 weiter machen
 
+Heute habe ich die Aufträge vom Modul 450 und auh vom Modul 347 weiter gemacht. Ich habe die Aufträge vom Modul 347 fertig gemacht, die ich gestern angefangen habe. Beim Modul 347 habe ich einfach weitergearbeitet. Heute habe ich auch für meine Deutsch, Franz und Geschichte Prüfungen gelernt, die ich nächste Woche habe. Zusätzlich habe ich auch meine Hausaufgaben von Geschichte gemacht. 
