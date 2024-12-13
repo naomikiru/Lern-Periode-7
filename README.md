@@ -64,3 +64,8 @@ Heute habe ich an ein paar Handlungszielen vom LB346 gearbeitet, da gestern DSL 
 
 Ich habe heute für die meiste Zeit an den Aufträgen vom Modul 450 gemacht, die Aufträge LA_450_6930_UnitTesting und LA_450_6931_CodeCoverage. $Ich habe den Auftrag LA_450_6930_UnitTesting neu gemacht, da er am Montag bei mir nicht funktioniert hat. Nachdem ich es gelöst habe, habe ich für die Deutschprüfung am nächsten Mittwoch gelernt. 
 
+
+## 13.12.2024
+- [ ] Aufträge vom Modul 450 weiter machen
+- [ ] Aufträge vom modul 347 weiter machen
+
